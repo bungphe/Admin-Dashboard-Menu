@@ -1,0 +1,5 @@
+{
+  "name": "Admin Dashboard Menu",
+  "description": "A responsive and themeable admin dashboard menu interface inspired by various management system UIs. It features a searchable, icon-driven layout with support for both grid and list views, and light and dark themes.",
+  "requestFramePermissions": []
+}
